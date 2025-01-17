@@ -1,0 +1,17 @@
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\bin\Debug\net8.0\LandingData.deps.json
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\bin\Debug\net8.0\LandingData.runtimeconfig.json
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\bin\Debug\net8.0\LandingData.dll
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\bin\Debug\net8.0\LandingData.pdb
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\bin\Debug\net8.0\LandingEntidades.dll
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\bin\Debug\net8.0\LandingEntidades.pdb
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\obj\Debug\net8.0\LandingData.csproj.AssemblyReference.cache
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\obj\Debug\net8.0\LandingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\obj\Debug\net8.0\LandingData.AssemblyInfoInputs.cache
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\obj\Debug\net8.0\LandingData.AssemblyInfo.cs
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\obj\Debug\net8.0\LandingData.csproj.CoreCompileInputs.cache
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\obj\Debug\net8.0\LandingD.1A1C68FB.Up2Date
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\obj\Debug\net8.0\LandingData.dll
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\obj\Debug\net8.0\refint\LandingData.dll
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\obj\Debug\net8.0\LandingData.pdb
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\obj\Debug\net8.0\LandingData.genruntimeconfig.cache
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingData\obj\Debug\net8.0\ref\LandingData.dll

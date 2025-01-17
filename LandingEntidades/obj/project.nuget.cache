@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "i0tQhktG39U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\poste\\Desktop\\SIMAG LTDA\\API LANDING\\LandingEntidades\\LandingEntidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poste\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\poste\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\poste\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\poste\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\poste\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

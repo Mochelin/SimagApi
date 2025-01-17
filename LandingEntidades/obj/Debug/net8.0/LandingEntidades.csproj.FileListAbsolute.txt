@@ -1,0 +1,11 @@
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingEntidades\bin\Debug\net8.0\LandingEntidades.deps.json
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingEntidades\bin\Debug\net8.0\LandingEntidades.dll
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingEntidades\bin\Debug\net8.0\LandingEntidades.pdb
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingEntidades\obj\Debug\net8.0\LandingEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingEntidades\obj\Debug\net8.0\LandingEntidades.AssemblyInfoInputs.cache
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingEntidades\obj\Debug\net8.0\LandingEntidades.AssemblyInfo.cs
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingEntidades\obj\Debug\net8.0\LandingEntidades.csproj.CoreCompileInputs.cache
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingEntidades\obj\Debug\net8.0\LandingEntidades.dll
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingEntidades\obj\Debug\net8.0\refint\LandingEntidades.dll
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingEntidades\obj\Debug\net8.0\LandingEntidades.pdb
+C:\Users\poste\Desktop\SIMAG LTDA\API LANDING\LandingEntidades\obj\Debug\net8.0\ref\LandingEntidades.dll
